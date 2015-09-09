@@ -1,0 +1,14 @@
+{
+  "name": "ferd-trending",
+  "version": "0.0.1",
+  "description": "A Ferd module that shows trending news items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ferd"
+  ],
+  "author": "David Rosson",
+  "license": "MIT"
+}
