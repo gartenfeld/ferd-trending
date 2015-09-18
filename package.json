@@ -1,0 +1,24 @@
+{
+  "name": "ferd-trending",
+  "version": "0.0.2",
+  "description": "A Ferd module that shows trending news items.",
+  "main": "trending.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ferd",
+    "slack"
+  ],
+  "author": {
+    "name": "David Rosson"
+  },
+  "license": "MIT",
+  "readme": "ERROR: No README data found!",
+  "_id": "ferd-trending@0.0.1",
+  "_shasum": "e1ec130098423f17ee66f47d9f2550f340f5e34b",
+  "_from": "ferd-trending@latest",
+  "dependencies": {
+    "extend": "^3.0.0"
+  }
+}
